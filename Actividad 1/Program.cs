@@ -20,6 +20,7 @@ namespace hola_mundo
         public string procesador;
         public string placaMadre;
         public string fuente;
+        public string memoriaRam;
         
 
         public void encender()
